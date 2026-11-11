@@ -53,13 +53,43 @@ Me motiva aprender de forma constante, resolver problemas y desarrollar solucion
   <img src="https://cdn.simpleicons.org/reddit/FF4500" width="40" height="40" alt="Reddit" />
 </p>
 
-## 🚀 Proyectos
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pr%C3%B3ximamente-Nuevos_proyectos-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Próximamente: nuevos proyectos" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ecduar&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" height="170" alt="Estadísticas de GitHub con rango estimado" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ecduar&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Estadísticas de lenguajes usados en repositorios públicos" />
 </p>
 
-Estoy trabajando en proyectos independientes y compartiré aquí los que quiera destacar, junto con su código y demos cuando estén disponibles.
+<p align="center"><sub>Los lenguajes se estiman a partir del código de los repositorios públicos. El rango es orientativo y no representa un nivel oficial ni una certificación de habilidades.</sub></p>
+
+## 🚀 Proyectos
+
+### [Proyecto JGH](https://github.com/Ecduar/proyecto-jgh)
+Aplicación web interactiva sobre la vida y obra del Dr. José Gregorio Hernández, con contenidos educativos, encuestas y formulario de contacto.  
+`JavaScript` · `Node.js` · `Express` · `MongoDB`
+
+### [Cátedra JGH](https://github.com/Ecduar/catedra-jgh)
+Sistema académico para gestionar la inscripción de estudiantes, con operaciones para crear, consultar, editar y eliminar registros.  
+`React` · `JavaScript` · `CSS`
+
+### [Developer Finder](https://github.com/Ecduar/Developer-Finder)
+Buscador de perfiles de GitHub que muestra información de usuarios y sus repositorios mediante la API de GitHub.  
+`HTML` · `CSS` · `JavaScript`
+
+### [Laught Tale](https://github.com/Ecduar/Laught-Tale)
+Sitio temático inspirado en One Piece, con diseño adaptable, carrusel de imágenes y animaciones.  
+`HTML` · `CSS` · `JavaScript` · `Webpack`
+
+### [El Código del Arte](https://github.com/Ecduar/El-Codigo-del-Arte)
+Concepto de museo digital con galerías, páginas de obras y formulario de contacto.  
+`HTML` · `CSS`
+
+### [Sistema de Gestión de Gimnasio](https://github.com/Ecduar/backend_gym)
+Aplicación para administrar clientes, entrenadores, membresías, pagos y espacios de un gimnasio.  
+`Node.js` · `Express` · `EJS`
+
+### [DeluxeJewelry](https://github.com/Ecduar/DeluxeJewelry)
+Repositorio creado en GitHub; todavía no contiene archivos.
 
 ---
 
