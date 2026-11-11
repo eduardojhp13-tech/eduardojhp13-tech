@@ -56,11 +56,11 @@ Me motiva aprender de forma constante, resolver problemas y desarrollar solucion
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ecduar&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" height="170" alt="Estadísticas de GitHub con rango estimado" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ecduar&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Estadísticas de lenguajes usados en repositorios públicos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ecduar&theme=tokyonight" height="170" alt="Estadísticas de actividad de GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ecduar&theme=tokyonight" height="170" alt="Tecnologías detectadas en los repositorios públicos" />
 </p>
 
-<p align="center"><sub>Los lenguajes se estiman a partir del código de los repositorios públicos. El rango es orientativo y no representa un nivel oficial ni una certificación de habilidades.</sub></p>
+<p align="center"><sub>GitHub no asigna un nivel oficial. Estas tarjetas reflejan la actividad y los lenguajes detectados en los repositorios públicos; no miden el dominio de cada tecnología.</sub></p>
 
 ## 🚀 Proyectos
 
