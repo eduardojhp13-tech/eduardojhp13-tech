@@ -1,82 +1,55 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1D4ED8,100:06B6D4&height=250&section=header&text=Daniel%20Mar%C3%ADn&fontSize=58&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Daniel Marín | Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1D4ED8,100:06B6D4&height=250&section=header&text=Eduardo%20Hernandez&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20software%20%7C%20Web%20y%20m%C3%B3vil&descAlignY=60&descSize=17" width="100%" alt="Banner de Eduardo Hernandez, desarrollador de software web y móvil" />
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=280&lines=Building+with+purpose;Learning+by+creating;Thoughtful+web+experiences" alt="Building with purpose, learning by creating, and thoughtful web experiences" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=420&lines=Creando+proyectos+independientes;Aprendiendo+y+mejorando+cada+d%C3%ADa;Desarrollo+de+software+web+y+m%C3%B3vil" alt="Creando proyectos independientes, aprendiendo y mejorando cada día, desarrollo de software web y móvil" />
+</p>
 
 ---
 
-## 👋 About me
+## 👋 Sobre mí
 
-I'm Daniel, a Full Stack Developer and a student of Systems Engineering at UNEFA and Public Accounting at LUZ. I enjoy building web applications that make ideas easier to explore and use, with attention to the details that connect the interface, the data, and the overall experience.
+¡Hola! Soy **Eduardo Hernandez**, desarrollador de software con interés en el desarrollo web y móvil, y estudiante de **Ingeniería de Sistemas en la Universidad Dr. José Gregorio Hernández**.
 
-My projects include frontend experiences built with HTML, CSS, and JavaScript, as well as a fragrance catalog developed with React, Vite, and Appwrite. I like moving between the visual side of a product and the behind-the-scenes work that helps it function, and I keep expanding my toolkit through hands-on projects.
+Actualmente trabajo en proyectos independientes mientras continúo fortaleciendo mis conocimientos. Me interesa participar en todo el proceso de creación de software: desde convertir una idea en una experiencia útil hasta organizar la lógica y las herramientas que la hacen funcionar.
 
-Studying two different fields shapes how I approach challenges: Systems Engineering helps me think about how parts work together, while Public Accounting adds an analytical and organized perspective. I'm motivated by continuous learning, clear communication, and contributing to useful, well-crafted software.
+Me motiva aprender de forma constante, resolver problemas y desarrollar soluciones claras, funcionales y cuidadas. En este perfil compartiré proyectos, aprendizajes y experimentos a medida que avance.
 
-## 🧰 Technologies
+## 🧰 Tecnologías y herramientas
 
-### Frontend & CMS
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,react,materialui,wordpress&perline=4" alt="HTML, CSS, JavaScript, TypeScript, SCSS, React, Material UI, WordPress" /></p>
+### Frontend y CMS
 
-### Backend & Languages
-<p align="center"><img src="https://skillicons.dev/icons?i=php,mysql,postgres,python,java,cpp&perline=4" alt="PHP, MySQL, PostgreSQL, Python, Java, C++" /></p>
-
-### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,linux,windows,visualstudio&perline=4" alt="Git, GitHub, GitLab, Docker, AWS, Linux, Windows, Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,react,materialui,wordpress&perline=4" alt="HTML, CSS, JavaScript, TypeScript, SCSS, React, Material UI y WordPress" />
+</p>
+
+### Backend y lenguajes
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,postgres,python,java,cpp&perline=4" alt="PHP, MySQL, PostgreSQL, Python, Java y C++" />
+</p>
+
+### Herramientas y plataformas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,linux,windows,visualstudio&perline=4" alt="Git, GitHub, GitLab, Docker, AWS, Linux, Windows y Visual Studio" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" height="40" alt="Jupyter Notebook" />
 </p>
 
-### AI & Community
+### Herramientas de IA
+
 <p align="center">
   <img src="https://antigravity.google/favicon.svg" width="40" height="40" alt="Google Antigravity" />
   <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" height="40" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/reddit/FF4500" width="40" height="40" alt="Reddit" />
 </p>
 
-## 🚀 Selected projects
+## 🚀 Proyectos
 
-### ✨ G&D Essences — Fragrance Catalog
+Estoy trabajando en proyectos independientes y compartiré aquí los que quiera destacar, junto con su código y demos cuando estén disponibles.
 
-A fragrance catalog with product and collection information managed through Appwrite.
+---
 
-**Stack:** React · Vite · Appwrite Cloud
-
-<p>
-  <a href="https://github.com/daniel-devfrontend/Catalogo-gd-essences"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="G&D Essences source code" /></a>
-  <a href="https://daniel-devfrontend.github.io/Catalogo-gd-essences/"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="G&D Essences live demo" /></a>
-</p>
-
-### 🎨 Guss Sys — Agency Landing Page
-
-A frontend landing-page concept presenting agency services, portfolio work, and contact information.
-
-**Stack:** HTML · CSS
-
-<p>
-  <a href="https://github.com/daniel-devfrontend/Guss-Sys"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Guss Sys source code" /></a>
-  <a href="https://daniel-devfrontend.github.io/Guss-Sys/"><img src="https://img.shields.io/badge/Live-Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Guss Sys live demo" /></a>
-</p>
-
-### 🎮 Unity Universe
-
-An editorial-style guide to Unity, covering engine features, workflows, platforms, and games.
-
-<p>
-  <a href="https://github.com/daniel-devfrontend/Unity-Universe"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Unity Universe source code" /></a>
-  <a href="https://daniel-devfrontend.github.io/Unity-Universe/"><img src="https://img.shields.io/badge/Live-Demo-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Unity Universe live demo" /></a>
-</p>
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://www.instagram.com/daniel.devfrontend?obrf=MTBmbDI4bTE5dXNkZg=="><img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" /></a>
-  <a href="https://www.linkedin.com/in/danielmarindev"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="mailto:danimarin.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" /></a>
-</p>
-
-<p align="center"><sub>Building with curiosity, clarity, and purpose.</sub></p>
+<p align="center"><sub>Aprendiendo, creando y avanzando proyecto a proyecto.</sub></p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0B1020&height=100&section=footer" width="100%" alt="" /></p>
